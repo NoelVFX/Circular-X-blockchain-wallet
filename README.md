@@ -1,4 +1,4 @@
-# Aqua Wallet
+# Circular X Blockchain wallet
 
 A crypto wallet that makes it easy to use the blockchain.
 
